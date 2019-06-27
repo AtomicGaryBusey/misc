@@ -1,7 +1,7 @@
 // This is a profille.json config file for Windows Terminal.
 // You can use this as an example to get backgrounds and custom icons working.
 // I also have PowerShell Core and Ubuntu in WSL installled; you can see the definitions in this config.
-// NOTE: Remove thesefour comment lines before using this or the universe may implode. Reverse big bang if you will.
+// NOTE: Remove these four comment lines before using this or the universe may implode. Reverse big bang if you will.
 
 {
     "globals" : 
