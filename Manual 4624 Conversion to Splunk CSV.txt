@@ -1,0 +1,14 @@
+01: Open CSV in Excel
+02: Make table
+03: Rename EventLog column with the name of the log only
+04: Remove the messages: "The name for category " from EventCategoryName and "The description for Event ID " Message.
+05: Move columns so Strings is last
+06: Select the Strings column
+07: Data > Columns from text > | delimeter > OK
+08: Rename Strings to Strings01 and drag out to last column of new data.
+09: Delete TimeWritten column
+10: Add new column to the right of TimeGenerated named TimeGeneratedUTC
+11: Rename TimeGenerated to TimeGeneratedPST
+12: Apply the formula =C2+(8/24) to the TimeGeneratedUTC column
+13: Save and close.
+14: QC in TextPad and Excel before loading.
