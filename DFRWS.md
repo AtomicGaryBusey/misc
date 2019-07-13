@@ -4,41 +4,43 @@ anything else.
 
 ## [DFRWS Rodeo Materials](https://www.dfrws.rodeo/about/)
 
-This is the base list the Rodeo recommends beinging, with some additional tools I installed.
-My platform is a Windows 10 laptop running Ubuntu in WSL, so keep that in mind.
+This is a fork of the base list the Rodeo recommends beinging, with some additional tools I 
+installed. My platform is a Windows 10 laptop running Ubuntu in WSL, so keep that in mind.
 
 Virtualization software
-* [VMWare]()
-* [VirtualBox]()
+* [Hyper-V](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)
 
 Windows / Linux virtual machines
-* []()
+* CentOS, Windows 10, and Ubuntu ISO images ready to use if needed
 
 Disk analysis tools
-* [X-Ways]()
-* [Sleuth Kit]()
-* [Foremost]()
+* [X-Ways Forensics](https://www.x-ways.net/forensics/index-m.html)
+* [Sleuth Kit](https://www.sleuthkit.org/), specifically [Autopsy](https://www.sleuthkit.org/autopsy/download.php)
+* [Foremost](http://foremost.sourceforge.net/)
 
-Memory analysis tools
-* [Volatility]()
-* [Rekall]()
+Memory acquisition & analysis tools
+* [Volatility 2.6](https://www.volatilityfoundation.org/26)
+* [Rekall](http://www.rekall-forensic.com/)
+* [DumpIt](https://www.comae.com/)
 
 Network analysis tools
-* [WireShark]()
-* [Microsoft Message Analyzer]()
+* [WireShark](https://www.wireshark.org/download.html)
+* [Microsoft Message Analyzer](https://www.microsoft.com/en-us/download/details.aspx?id=44226)
 
 Document analysis tools
-* [Office]()
-* [oledump]()
+* [Office](https://products.office.com/en-us/products?rtc=1)
+* [oledump](https://blog.didierstevens.com/programs/oledump-py/)
+* [MFCMAPI](https://github.com/stephenegriffin/mfcmapi)
 
 File analysis tools
-* [TextPad]()
-* [Notepad++]()
+* [TextPad](https://www.textpad.com/download/index.html)
+* [Notepad++](https://notepad-plus-plus.org/download/)
+* [Bitmap Cache Viewer](https://github.com/0xTowel/BMC-Viewer-Backup)
 
 Dynamic analysis tools
-* [WinDBG]()
-* [OllyDBG]()
-* [ProcMon]()
+* [WinDbg](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/debugger-download-tools)
+* [OllyDBG](http://www.ollydbg.de/download.htm)
+* [ProcMon](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon), but you might as well just get the whole [SysInternals](https://docs.microsoft.com/en-us/sysinternals/) suite.
 
 Static analysis tools
 * [IDA]()
@@ -46,6 +48,12 @@ Static analysis tools
 * [strings]()
 
 Your scripting language of choice
-* [PowerShell 6]()
+* [PowerShell Core 6](https://github.com/PowerShell/PowerShell)
 * [bash]()
+* [Python 2.7 + 3.7](https://www.python.org/downloads/)
 
+Useful tools
+* [Eric Zimmerman's Tools](https://ericzimmerman.github.io/#!index.md)
+* [KAPE](https://learn.duffandphelps.com/kape?utm_campaign=2019_cyberitbn-KAPE-launch&utm_source=kroll&utm_medium=referral&utm_term=kape-launch-blog-post)
+* [nirsoft's Tools](https://www.nirsoft.net/)
+* [SysInternals](https://docs.microsoft.com/en-us/sysinternals/)
