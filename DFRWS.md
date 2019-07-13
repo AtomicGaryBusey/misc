@@ -11,7 +11,8 @@ Virtualization software
 * [Hyper-V](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)
 
 Windows / Linux virtual machines
-* CentOS, Windows 10, and Ubuntu ISO images ready to use if needed
+* [CentOS](https://wiki.centos.org/Download), [Windows 10](https://www.microsoft.com/en-us/software-download/windows10), and [Ubuntu](https://ubuntu.com/download/desktop) ISO images ready to use if needed
+* [Ghidra Workshop Materials](https://drive.google.com/drive/folders/1oVPWllJoBDjhwl8qxAMvZzSoxgYFzc-0)
 
 Disk analysis tools
 * [X-Ways Forensics](https://www.x-ways.net/forensics/index-m.html)
@@ -43,13 +44,14 @@ Dynamic analysis tools
 * [ProcMon](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon), but you might as well just get the whole [SysInternals](https://docs.microsoft.com/en-us/sysinternals/) suite.
 
 Static analysis tools
-* [IDA]()
+* [IDA](https://www.hex-rays.com/products/ida/)
 * [Ghidra](https://ghidra-sre.org/)
-* [strings]()
+* strings
+* [JetBrains dotPEEK .NET Disassembler](https://www.jetbrains.com/decompiler/)
 
 Your scripting language of choice
 * [PowerShell Core 6](https://github.com/PowerShell/PowerShell)
-* [bash]()
+* [bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 * [Python 2.7 + 3.7](https://www.python.org/downloads/)
 
 Useful tools
