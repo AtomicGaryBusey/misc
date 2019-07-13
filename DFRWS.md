@@ -12,7 +12,7 @@ Virtualization software
 
 Windows / Linux virtual machines
 * [CentOS](https://wiki.centos.org/Download), [Windows 10](https://www.microsoft.com/en-us/software-download/windows10), and [Ubuntu](https://ubuntu.com/download/desktop) ISO images ready to use if needed
-* [Ghidra Workshop Materials](https://drive.google.com/drive/folders/1oVPWllJoBDjhwl8qxAMvZzSoxgYFzc-0)
+* [Ghidra Workshop Materials](https://drive.google.com/drive/folders/1oVPWllJoBDjhwl8qxAMvZzSoxgYFzc-0) (Kali VMs)
 
 Disk analysis tools
 * [X-Ways Forensics](https://www.x-ways.net/forensics/index-m.html)
