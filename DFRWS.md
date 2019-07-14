@@ -56,6 +56,6 @@ Your scripting language of choice
 
 Useful tools
 * [Eric Zimmerman's Tools](https://ericzimmerman.github.io/#!index.md)
-* [KAPE](https://learn.duffandphelps.com/kape?utm_campaign=2019_cyberitbn-KAPE-launch&utm_source=kroll&utm_medium=referral&utm_term=kape-launch-blog-post)
+* [KAPE](https://learn.duffandphelps.com/kape?utm_campaign=2019_cyberitbn-KAPE-launch&utm_source=kroll&utm_medium=referral&utm_term=kape-launch-blog-post), for the Sunday workshop, [KAPE can be downloaded here](https://bit.ly/KAPE-Portland).
 * [nirsoft's Tools](https://www.nirsoft.net/)
 * [SysInternals](https://docs.microsoft.com/en-us/sysinternals/)
