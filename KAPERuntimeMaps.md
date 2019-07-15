@@ -1,11 +1,13 @@
 # Overview
 
-These are runtime maps for KAPE module (*.mkape) and target (*.tkape) definition files, which I built to get a better understanding of the actual applications and scripts running in my automated forensics pipeline.
-This is vital for correctly implementing AppLocker allow-listing, monitoring 4688 logs for abnormalities on my processing machines, and more.
+These are runtime maps for KAPE module (*.mkape) and target (*.tkape) definition files, which I built to get a better understanding of the actual applications and scripts running in my automated forensics pipeline. This is vital for correctly implementing AppLocker allow-listing, monitoring 4688 logs for abnormalities on my processing machines, and more.
 
-They're arranged in a logical flow. Some modules and targets exclusively call child .mkape and .tkape files which themselves run the actual jobs.
-I've found this also makes it easier to build custom flows for jobs like Triage Forensics as opposed to a full collection.
+They're arranged in a logical flow. Some modules and targets exclusively call child .mkape and .tkape files which themselves run the actual jobs. I've found this also makes it easier to build custom flows for jobs like Triage Forensics as opposed to a full collection.
 
+## Acknowledgements
+
+* Eric Zimmerman for KAPE
+* Jesse G. Donat for the [CSV To Markdown Table Generator](https://donatstudios.com/CsvToMarkdownTable) tool. You can find the source on GitHub here: [donatj/CsvToMarkdownTable](https://github.com/donatj/CsvToMarkdownTable). This made creation of the tables on this page SO much easier!
 
 
 ## KAPE Modules (Stock)
