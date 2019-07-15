@@ -9,6 +9,11 @@ They're arranged in a logical flow. Some modules and targets exclusively call ch
 * Eric Zimmerman for KAPE
 * Jesse G. Donat for the [CSV To Markdown Table Generator](https://donatstudios.com/CsvToMarkdownTable) tool. You can find the source on GitHub here: [donatj/CsvToMarkdownTable](https://github.com/donatj/CsvToMarkdownTable). This made creation of the tables on this page SO much easier!
 
+## Source Data
+
+Because sometimes scrolling through a table sucks. :-)
+* [KapeAllModulesStock.csv](https://github.com/AtomicGaryBusey/misc/blob/master/KapeAllModulesStock.csv)
+* [KapeAllTargetsStock.csv](https://github.com/AtomicGaryBusey/misc/blob/master/KapeAllTargetsStock.csv)
 
 ## KAPE Modules (Stock)
 
