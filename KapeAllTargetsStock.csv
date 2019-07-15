@@ -1,0 +1,224 @@
+Main Target Definition,Target Processor Definition,Target Processor Description,Applicable OS,Target Path,Target File / Mask
+!ALL.tkape,*.tkape,Execute ALL tkape files found in the Targets directory,,Various,
+!BasicCollection.tkape,,Performs a basic collection of files,,Various,
+,Amcache.tkape,Amcache,,C:\Windows\AppCompat\Programs\,Amcache.hve
+,Amcache.tkape,Amcache transaction files,,C:\Windows\AppCompat\Programs\,Amcache.hve.LOG*
+,ApacheAccessLog.tkape,Locates Apache access.log file,,C:\,access.log
+,BCD.tkape,Boot Configuration Files,,C:\Boot\,BCD
+,BCD.tkape,Boot Configuration Files,,C:\Boot\,BCD.LOG*
+,Chrome.tkape,Chrome bookmarks XP,Windows XP,C:\Documents and Settings\*\Local Settings\Application Data\Google\Chrome\User Data\*\Bookmarks*,
+,Chrome.tkape,Chrome Cookies XP,Windows XP,C:\Documents and Settings\*\Local Settings\Application Data\Google\Chrome\User Data\*\Cookies*,
+,Chrome.tkape,Chrome Current Session XP,Windows XP,C:\Documents and Settings\*\Local Settings\Application Data\Google\Chrome\User Data\*\Current Session,
+,Chrome.tkape,Chrome Current Tabs XP,Windows XP,C:\Documents and Settings\*\Local Settings\Application Data\Google\Chrome\User Data\*\Current Tabs,
+,Chrome.tkape,Chrome Favicons XP,Windows XP,C:\Documents and Settings\*\Local Settings\Application Data\Google\Chrome\User Data\*\Favicons*,
+,Chrome.tkape,Chrome History XP,Windows XP,C:\Documents and Settings\*\Local Settings\Application Data\Google\Chrome\User Data\*\History*,
+,Chrome.tkape,Chrome Last Session XP,Windows XP,C:\Documents and Settings\*\Local Settings\Application Data\Google\Chrome\User Data\*\Last Session,
+,Chrome.tkape,Chrome Last Tabs XP,Windows XP,C:\Documents and Settings\*\Local Settings\Application Data\Google\Chrome\User Data\*\Last Tabs,
+,Chrome.tkape,Chrome Preferences XP,Windows XP,C:\Documents and Settings\*\Local Settings\Application Data\Google\Chrome\User Data\*\Preferences,
+,Chrome.tkape,Chrome Shortcuts XP,Windows XP,C:\Documents and Settings\*\Local Settings\Application Data\Google\Chrome\User Data\*\Shortcuts*,
+,Chrome.tkape,Chrome Top Sites XP,Windows XP,C:\Documents and Settings\*\Local Settings\Application Data\Google\Chrome\User Data\*\Top Sites*,
+,Chrome.tkape,Chrome bookmarks XP,Windows XP,C:\Documents and Settings\*\Local Settings\Application Data\Google\Chrome\User Data\*\Bookmarks*,
+,Chrome.tkape,Chrome Visited Links XP,Windows XP,C:\Documents and Settings\*\Local Settings\Application Data\Google\Chrome\User Data\*\Visited Links,
+,Chrome.tkape,Chrome Web Data XP,Windows XP,C:\Documents and Settings\*\Local Settings\Application Data\Google\Chrome\User Data\*\Web Data*,
+,Chrome.tkape,Chrome bookmarks,,C:\Users\*\AppData\Local\Google\Chrome\User Data\*\Bookmarks*,
+,Chrome.tkape,Chrome Cookies,,C:\Users\*\AppData\Local\Google\Chrome\User Data\*\Cookies*,
+,Chrome.tkape,Chrome Current Session,,C:\Users\*\AppData\Local\Google\Chrome\User Data\*\Current Session,
+,Chrome.tkape,Chrome Current Tabs,,C:\Users\*\AppData\Local\Google\Chrome\User Data\*\Current Tabs,
+,Chrome.tkape,Chrome Favicons,,C:\Users\*\AppData\Local\Google\Chrome\User Data\*\Favicons*,
+,Chrome.tkape,Chrome History,,C:\Users\*\AppData\Local\Google\Chrome\User Data\*\History*,
+,Chrome.tkape,Chrome Last Session,,C:\Users\*\AppData\Local\Google\Chrome\User Data\*\Last Session,
+,Chrome.tkape,Chrome Last Tabs,,C:\Users\*\AppData\Local\Google\Chrome\User Data\*\Last Tabs,
+,Chrome.tkape,Chrome Preferences,,C:\Users\*\AppData\Local\Google\Chrome\User Data\*\Preferences,
+,Chrome.tkape,Chrome Shortcuts,,C:\Users\*\AppData\Local\Google\Chrome\User Data\*\Shortcuts*,
+,Chrome.tkape,Chrome Top Sites,,C:\Users\*\AppData\Local\Google\Chrome\User Data\*\Top Sites*,
+,Chrome.tkape,Chrome bookmarks,,C:\Users\*\AppData\Local\Google\Chrome\User Data\*\Bookmarks*,
+,Chrome.tkape,Chrome Visited Links,,C:\Users\*\AppData\Local\Google\Chrome\User Data\*\Visited Links,
+,Chrome.tkape,Chrome Web Data,,C:\Users\*\AppData\Local\Google\Chrome\User Data\*\Web Data*,
+,CiscoJabber.tkape,Cisco Jabber Database,,C:\Users\*\AppData\Local\Cisco\Unified Communications\Jabber\CSF\History\,*.db
+CombinedLogs.tkape,EventLogs.tkape,Windows Event Logs,,"C:\Windows\system32\config\
+C:\Windows\system32\winevt\logs\","*.evt
+*.evtx"
+CombinedLogs.tkape,EventTraceLogs.tkape,Event Trace Logs,,"C:\Windows\System32\WDI\LogFiles\
+C:\Windows\System32\WDI\
+C:\Windows\System32\LogFiles\WMI\
+C:\Windows\System32\
+C:\ProgramData\Microsoft\Windows\PowerEfficiency Diagnostics\"," *.etl*
+ {*
+ *
+ SleepStudy*
+ energy-ntkl.etl"
+CombinedLogs.tkape,PowerShellConsole.tkape,PowerShell Console Log,,C:\users\*\Appdata\Roaming\Microsoft\Windows\PowerShell\PSReadline\,ConsoleHost_history.txt
+CombinedLogs.tkape,WindowsFirewall.tkape,Windows Firewall Log,,C:\Windows\System32\LogFiles\Firewall\,pfirewall.*
+,ConfluenceLogs.tkape,Confluence Wiki Log Files,,C:\Atlassian\Application Data\Confluence\logs\,*.log*
+,ConfluenceLogs.tkape,Confluence Wiki Log Files,,C:\Program Files\Atlassian\Confluence\logs\,*.log
+,Edge.tkape,Edge folder,,C:\Users\*\AppData\Local\Packages\Microsoft.MicrosoftEdge_8wekyb3d8bbwe,
+,Edge.tkape,WebcacheV01.dat,,C:\Users\*\AppData\Local\Microsoft\Windows\WebCache,
+,EncapsulationLogging.tkape,EncapsulationLogging,,C:\windows\Appcompat\Programs\,EncapsulationLogging.hve
+,EncapsulationLogging.tkape,EncapsulationLogging Logs,,C:\windows\Appcompat\Programs\,EncapsulationLogging.log*
+,EventLogs.tkape,Event logs XP,Windows XP,C:\Windows\system32\config\,*.evt
+,EventLogs.tkape,Event logs Win7+,,C:\Windows\system32\winevt\logs\,*.evtx
+,EventTraceLogs.tkape,WDI Trace Logs 1,,C:\Windows\System32\WDI\LogFiles\,*.etl*
+,EventTraceLogs.tkape,WDI Trace Logs 2,,C:\Windows\System32\WDI\,{*
+,EventTraceLogs.tkape,WMI Trace Logs,,C:\Windows\System32\LogFiles\WMI\,*
+,EventTraceLogs.tkape,SleepStudy Trace Logs,,C:\Windows\System32\,SleepStudy*
+,EventTraceLogs.tkape,Energy-NTKL Trace Logs,,C:\ProgramData\Microsoft\Windows\PowerEfficiency Diagnostics\,energy-ntkl.etl
+EvidenceOfExecution.tkape,,Prefetch,,C:\Windows\prefetch\,*.pf
+EvidenceOfExecution.tkape,,RecentFileCache,,C:\Windows\AppCompat\Programs\,RecentFileCache.bcf
+EvidenceOfExecution.tkape,Amcache.tkape,Amcache,,C:\Windows\AppCompat\Programs\,Amcache.hve
+EvidenceOfExecution.tkape,Amcache.tkape,Amcache transaction files,,C:\Windows\AppCompat\Programs\,Amcache.hve.LOG*
+EvidenceOfExecution.tkape,Syscache.tkape,Syscache,,C:\System Volume Information\,Syscache.hve
+EvidenceOfExecution.tkape,Syscache.tkape,Syscache transaction files,,C:\System Volume Information\,Syscache.hve.LOG*
+Exchange.tkape,ExchangeClientAccess.tkape,Exchange client access log files,,C:\Program Files\Microsoft\Exchange Server\*\Logging,
+Exchange.tkape,ExchangeTransport.tkape,Exchange TransportRoles log files,,C:\Program Files\Microsoft\Exchange Server\*\TransportRoles\Logs\,
+,ExchangeClientAccess.tkape,Exchange client access log files,,C:\Program Files\Microsoft\Exchange Server\*\Logging,
+,ExchangeTransport.tkape,Exchange TransportRoles log files,,C:\Program Files\Microsoft\Exchange Server\*\TransportRoles\Logs\,
+,FileSystem.tkape,$MFT,,C:\,$MFT
+,FileSystem.tkape,$LogFile,,C:\,$LogFile
+,FileSystem.tkape,$J,,C:\$Extend\,$UsnJrnl:$J
+,FileSystem.tkape,$Max,,C:\$Extend\,$UsnJrnl:$Max
+,FileSystem.tkape,$SDS,,C:\,$Secure:$SDS
+,FileSystem.tkape,$Boot,,C:\,$Boot
+,FileSystem.tkape,$T,,C:\$Extend\$RmMetadata\$TxfLog\,$Tops:$T
+,Firefox.tkape,Places,,C:\Users\*\AppData\Roaming\Mozilla\Firefox\Profiles\*\,places.sqlite*
+,Firefox.tkape,Downloads,,C:\Users\*\AppData\Roaming\Mozilla\Firefox\Profiles\*\,downloads.sqlite*
+,Firefox.tkape,Form history,,C:\Users\*\AppData\Roaming\Mozilla\Firefox\Profiles\*\,formhistory.sqlite*
+,Firefox.tkape,Cookies,,C:\Users\*\AppData\Roaming\Mozilla\Firefox\Profiles\*\,cookies.sqlite*
+,Firefox.tkape,Signons,,C:\Users\*\AppData\Roaming\Mozilla\Firefox\Profiles\*\,signons.sqlite*
+,Firefox.tkape,Webappstore,,C:\Users\*\AppData\Roaming\Mozilla\Firefox\Profiles\*\,webappstore.sqlite*
+,Firefox.tkape,Favicons,,C:\Users\*\AppData\Roaming\Mozilla\Firefox\Profiles\*\,favicons.sqlite*
+,Firefox.tkape,Addons,,C:\Users\*\AppData\Roaming\Mozilla\Firefox\Profiles\*\,addons.sqlite*
+,Firefox.tkape,Search,,C:\Users\*\AppData\Roaming\Mozilla\Firefox\Profiles\*\,search.sqlite*
+,Firefox.tkape,Places XP,Windows XP,C:\Documents and Settings\*\Application Data\Mozilla\Firefox\Profiles\*\,places.sqlite*
+,Firefox.tkape,Downloads XP,Windows XP,C:\Documents and Settings\*\Application Data\Mozilla\Firefox\Profiles\*\,downloads.sqlite*
+,Firefox.tkape,Form history XP,Windows XP,C:\Documents and Settings\*\Application Data\Mozilla\Firefox\Profiles\*\,formhistory.sqlite*
+,Firefox.tkape,Cookies XP,Windows XP,C:\Documents and Settings\*\Application Data\Mozilla\Firefox\Profiles\*\,cookies.sqlite*
+,Firefox.tkape,Signons XP,Windows XP,C:\Documents and Settings\*\Application Data\Mozilla\Firefox\Profiles\*\,signons.sqlite*
+,Firefox.tkape,Webappstore XP,Windows XP,C:\Documents and Settings\*\Application Data\Mozilla\Firefox\Profiles\*\,webappstore.sqlite*
+,Firefox.tkape,Favicons XP,Windows XP,C:\Documents and Settings\*\Application Data\Mozilla\Firefox\Profiles\*\,favicons.sqlite*
+,Firefox.tkape,Addons XP,Windows XP,C:\Documents and Settings\*\Application Data\Mozilla\Firefox\Profiles\*\,addons.sqlite*
+,Firefox.tkape,Search XP,Windows XP,C:\Documents and Settings\*\Application Data\Mozilla\Firefox\Profiles\*\,search.sqlite*
+,Gigatribe.tkape,Gigatribe Files Windows Vista/7/8/10,,C:\Users\*\AppData\Local\Shalsoft\,*
+,Gigatribe.tkape,Gigatribe Files Windows XP,Windows XP,C:\Documents and settings\*\*\Application Data\Gigatribe\,*
+,Gigatribe.tkape,Gigatribe Files Windows XP,Windows XP,C:\Documents and settings\*\*\Application Data\Shalsoft\,*
+,IISLogFiles.tkape,IIS log files,,C:\Windows\system32\LogFiles\W3SVC*\,*.log
+,IISLogFiles.tkape,IIS log files,,C:\inetpub\logs\LogFiles\,*.log
+,IISLogFiles.tkape,IIS log files,,C:\inetpub\logs\LogFiles\W3SVC*\,*.log
+,IISLogFiles.tkape,IIS log files,,C:\Resources\directory\* \LogFiles\Web\W3SVC*\,*.log
+,InternetExplorer.tkape,Index.dat History,Windows XP,C:\Documents and Settings\*\Local Settings\History\History.IE5\,index.dat
+,InternetExplorer.tkape,Index.dat History subdirectory,Windows XP,C:\Documents and Settings\*\Local Settings\History\History.IE5\*\,index.dat
+,InternetExplorer.tkape,Index.dat temp internet files,Windows XP,C:\Documents and Settings\*\Local Settings\Temporary Internet Files\Content.IE5\,index.dat
+,InternetExplorer.tkape,Index.dat cookies,Windows XP,C:\Documents and Settings\*\Cookies\,index.dat
+,InternetExplorer.tkape,Index.dat UserData,Windows XP,C:\Documents and Settings\*\Application Data\Microsoft\Internet Explorer\UserData\,index.dat
+,InternetExplorer.tkape,Index.dat Office XP,Windows XP,C:\Documents and Settings\*\Application Data\Microsoft\Office\Recent\,index.dat
+,InternetExplorer.tkape,Index.dat Office,,C:\Users\*\AppData\Roaming\Microsoft\Office\Recent\,index.dat
+,InternetExplorer.tkape,Local Internet Explorer folder,,C:\Users\*\AppData\Local\Microsoft\Internet Explorer\,
+,InternetExplorer.tkape,Roaming Internet Explorer folder,,C:\Users\*\AppData\Roaming\Microsoft\Internet Explorer\,
+,InternetExplorer.tkape,IE 9/10 History,,C:\Users\*\AppData\Local\Microsoft\Windows\History\,
+,InternetExplorer.tkape,IE 9/10 Cache,,C:\Users\*\AppData\Local\Microsoft\Windows\Temporary Internet Files\,
+,InternetExplorer.tkape,IE 9/10 Cookies,,C:\Users\*\AppData\Local\Microsoft\Windows\Cookies\,
+,InternetExplorer.tkape,IE 9/10 Download History,,C:\Users\*\AppData\Local\Microsoft\Windows\IEDownloadHistory\,
+,InternetExplorer.tkape,IE 11 Metadata,,C:\Users\*\AppData\Local\Microsoft\Windows\WebCache,
+,InternetExplorer.tkape,IE 11 Cache,,C:\Users\*\AppData\Local\Microsoft\Windows\INetCache\,
+,InternetExplorer.tkape,IE 11 Cookies,,C:\Users\*\AppData\Local\Microsoft\Windows\INetCookies\,
+,iTunesBackup.tkape,iTunes Backup Folder,,C:\Users\*\AppData\Roaming\Apple\Mobilesync\Backup,
+,iTunesBackup.tkape,iTunes Backup Folder,,C:\Users\*\AppData\Roaming\Apple Computer\Mobilesync\Backup,
+,LinuxOnWindowsProfileFiles.tkape,.bash_history,Windows 10,C:\Users\*\AppData\Local\Packages\*\LocalState\rootfs\home\*\,.bash_history
+,LinuxOnWindowsProfileFiles.tkape,.bash_logout,Windows 10,C:\Users\*\AppData\Local\Packages\*\LocalState\rootfs\home\*\,.bash_logout
+,LinuxOnWindowsProfileFiles.tkape,.bashrc,Windows 10,C:\Users\*\AppData\Local\Packages\*\LocalState\rootfs\home\*\,.bashrc
+,LinuxOnWindowsProfileFiles.tkape,.profile,Windows 10,C:\Users\*\AppData\Local\Packages\*\LocalState\rootfs\home\*\,.profile
+,LnkFilesAndJumpLists.tkape,Lnk files from Recent,,C:\Users\*\AppData\Roaming\Microsoft\Windows\Recent,
+,LnkFilesAndJumpLists.tkape,Lnk files from Microsoft Office Recent,,C:\Users\*\AppData\Roaming\Microsoft\Office\Recent,
+,LnkFilesAndJumpLists.tkape,Lnk files from Recent (XP),Windows XP,C:\Documents and Settings\*\Recent,
+,LnkFilesAndJumpLists.tkape,Desktop lnk files XP,Windows XP,C:\Documents and Settings\*\Desktop\,*.lnk
+,LnkFilesAndJumpLists.tkape,Desktop lnk files,,C:\Users\*\Desktop\,*.lnk
+,LnkFilesAndJumpLists.tkape,Restore point lnk files XP,Windows XP,C:\System Volume Information\_restore*\RP*\,*.lnk
+,McAfee.tkape,McAfee Logs XP,Windows XP,C:\Users\All Users\Application Data\McAfee\DesktopProtection,
+,McAfee.tkape,McAfee Logs,,C:\ProgramData\McAfee\DesktopProtection,
+,MOF.tkape,MOF files,,C:\,*.MOF
+,MSSQLErrorLog.tkape,MS SQL Errorlog,,C:\Program Files\Microsoft SQL Server\*\MSSQL\LOG\ERRORLOG,
+,MSSQLErrorLog.tkape,MS SQL Errorlogs,,C:\Program Files\Microsoft SQL Server\*\MSSQL\LOG\,ERRORLOG.*
+,NGINXLogs.tkape,NGINX Log Files,,C:\nginx\logs\,*.log
+,Notepad++.tkape,Notepad++ backup,,C:\Users\*\AppData\Roaming\Notepad++\backup\,*
+,OutlookPSTOST.tkape,PST XP,Windows XP,C:\Documents and Settings\*\Local Settings\Application Data\Microsoft\Outlook\,*.pst
+,OutlookPSTOST.tkape,OST XP,Windows XP,C:\Documents and Settings\*\Local Settings\Application Data\Microsoft\Outlook\,*.ost
+,OutlookPSTOST.tkape,PST,,C:\Users\*\AppData\Local\Microsoft\Outlook\,*.pst
+,OutlookPSTOST.tkape,OST,,C:\Users\*\AppData\Local\Microsoft\Outlook\,*.ost
+,PowerShellConsole.tkape,PowerShell Console Log,,C:\users\*\Appdata\Roaming\Microsoft\Windows\PowerShell\PSReadline\,ConsoleHost_history.txt
+,RDPCache.tkape,RDP Cache Files,,C:\Users\*\AppData\Local\Microsoft\Terminal Server Client\Cache\,*
+,RDPCache.tkape,RDP Cache Files XP,Windows XP,C:\Documents and Settings\*\Local Settings\Application Data\Microsoft\Terminal Server Client\Cache\,*
+,Recycle.tkape,$Recycle.Bin,,C:\$Recycle.Bin\,*
+,Recycle.tkape,RECYCLER WinXP,Windows XP,C:\RECYCLER\,*
+,RegistryHives.tkape,ntuser.dat registry hive XP,Windows XP,C:\Documents and Settings\*\,ntuser.dat
+,RegistryHives.tkape,ntuser.dat registry hive,,C:\Users\*\,ntuser.dat
+,RegistryHives.tkape,ntuser.dat registry transaction files,,C:\Users\*\,ntuser.dat.LOG*
+,RegistryHives.tkape,UsrClass.dat registry hive,,C:\Users\*\AppData\Local\Microsoft\Windows\,UsrClass.dat
+,RegistryHives.tkape,UsrClass.dat registry transaction files,,C:\Users\*\AppData\Local\Microsoft\Windows\,UsrClass.dat.LOG*
+,RegistryHives.tkape,SAM registry transaction files,,C:\Windows\System32\config\,SAM.LOG*
+,RegistryHives.tkape,SECURITY registry transaction files,,C:\Windows\System32\config\,SECURITY.LOG*
+,RegistryHives.tkape,SOFTWARE registry transaction files,,C:\Windows\System32\config\,SOFTWARE.LOG*
+,RegistryHives.tkape,SYSTEM registry transaction files,,C:\Windows\System32\config\,SYSTEM.LOG*
+,RegistryHives.tkape,SAM registry hive,,C:\Windows\System32\config\,SAM
+,RegistryHives.tkape,SECURITY registry hive,,C:\Windows\System32\config\,SECURITY
+,RegistryHives.tkape,SOFTWARE registry hive,,C:\Windows\System32\config\,SOFTWARE
+,RegistryHives.tkape,SYSTEM registry hive,,C:\Windows\System32\config\,SYSTEM
+,RegistryHives.tkape,RegBack registry transaction files,,C:\Windows\System32\config\RegBack\,*.LOG*
+,RegistryHives.tkape,SAM registry hive (RegBack),,C:\Windows\System32\config\RegBack\,SAM
+,RegistryHives.tkape,SECURITY registry hive (RegBack),,C:\Windows\System32\config\RegBack\,SECURITY
+,RegistryHives.tkape,SOFTWARE registry hive (RegBack),,C:\Windows\System32\config\RegBack\,SOFTWARE
+,RegistryHives.tkape,SYSTEM registry hive (RegBack),,C:\Windows\System32\config\RegBack\,SYSTEM
+,RegistryHives.tkape,SYSTEM registry hive (RegBack),,C:\Windows\System32\config\RegBack\,SYSTEM1
+,RegistryHives.tkape,System Profile registry hive,,C:\Windows\System32\config\systemprofile\,ntuser.dat
+,RegistryHives.tkape,System Profile registry transaction files,,C:\Windows\System32\config\systemprofile\,ntuser.dat.LOG*
+,RegistryHives.tkape,Local Service registry hive,,C:\Windows\ServiceProfiles\LocalService\,ntuser.dat
+,RegistryHives.tkape,Local Service registry transaction files,,C:\Windows\ServiceProfiles\LocalService\,ntuser.dat.LOG*
+,RegistryHives.tkape,Network Service registry hive,,C:\Windows\ServiceProfiles\NetworkService\,ntuser.dat
+,RegistryHives.tkape,Network Service registry transaction files,,C:\Windows\ServiceProfiles\NetworkService\,ntuser.dat.LOG*
+,RegistryHives.tkape,System Restore Points Registry Hives (XP),Windows XP,C:\System Volume Information\_restore*\RP*\snapshot\,_REGISTRY_*
+,ScheduledTasks.tkape,at .job,,C:\Windows\Tasks\,*.job
+,ScheduledTasks.tkape,at SchedLgU.txt,,C:\Windows\,SchedLgU.txt
+,ScheduledTasks.tkape,XML,,C:\Windows\system32\Tasks,
+,SDB.tkape,SDB Files,,C:\Windows\apppatch\Custom\,*.sdb
+,SDB.tkape,SDB Files x64,,C:\Windows\apppatch\Custom\Custom64\,*.sdb
+,SignatureCatalog.tkape,Obtain detached signature catalog files,,C:\Windows\System32\CatRoot,
+,Skype.tkape,main.db (App <v12),,C:\Users\*\AppData\Local\Packages\Microsoft.SkypeApp_*\LocalState\*\,main.db
+,Skype.tkape,skype.db (App +v12),,C:\Users\*\AppData\Local\Packages\Microsoft.SkypeApp_*\LocalState\*\,skype.db
+,Skype.tkape,main.db XP,Windows XP,C:\Documents and Settings\*\Application Data\Skype\*\,main.db
+,Skype.tkape,main.db Win7+,,C:\Users\*\AppData\Roaming\Skype\*\,main.db
+,Skype.tkape,s4l-[username].db (App +v8),,C:\Users\*\AppData\Local\Packages\Microsoft.SkypeApp_*\LocalState\,s4l-*.db
+,Skype.tkape,leveldb (Skype for Desktop +v8),,C:\Users\*\AppData\Roaming\Microsoft\Skype for Desktop\IndexedDB\*.leveldb\,*.log
+,SRUM.tkape,System Resource Usage Monitor (SRUM) Data,,C:\Windows\System32\SRU,
+,StartupInfo.tkape,StartupInfo XML Files,,C:\Windows\System32\WDI\LogFiles\StartupInfo\,*.xml
+,Symantec_AV_Logs.tkape,Symantec AV Logs,,C:\ProgramData\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\Logs,
+,Symantec_AV_Logs.tkape,Symantec AV User Logs,,C:\Users\*\AppData\Local\Symantec\Symantec Endpoint Protection\Logs,
+,Symantec_Daily_AV.tkape,Symantec Daily AV Logs,,C:\ProgramData\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\Logs\AV\,*.log
+,Syscache.tkape,Syscache,,C:\System Volume Information\,Syscache.hve
+,Syscache.tkape,Syscache transaction files,,C:\System Volume Information\,Syscache.hve.LOG*
+,TeamViewerLogs.tkape,Team Viewer Connections Log,,C:\Program Files (x86)\TeamViewer\,connections*.txt
+,TeamViewerLogs.tkape,Team Viewer Connections Log,,C:\Program Files\TeamViewer\,connections*.txt
+,TeraCopy.tkape,TeraCopy log history,,C:\Users\*\AppData\Roaming\TeraCopy,
+,ThumbCache.tkape,Thumbcache DB,,C:\Users\*\AppData\Local\Microsoft\Windows\Explorer\,thumbcache_*.db
+,TorrentClients.tkape,TorrentClients - qBittorrent,,C:\Users\*\AppData\Roaming\qBittorrent\,*.ini
+,TorrentClients.tkape,TorrentClients - qBittorrent,,C:\Users\*\AppData\Local\qBittorrent\logs,
+,TorrentClients.tkape,TorrentClients - uTorrent,,C:\Users\*\AppData\Roaming\uTorrent\,*.dat
+,TorrentClients.tkape,TorrentClients - BitTorrent,,C:\Users\*\AppData\Roaming\BitTorrent\,*.dat
+,Torrents.tkape,Torrent Files,,C:\,*.torrent
+,USBDevicesLogs.tkape,Setupapi.log XP,Windows XP,C:\Windows\,setupapi.log
+,USBDevicesLogs.tkape,Setupapi.log Win7+,,C:\Windows\inf\,setupapi.dev.log
+,VirtualDisks.tkape,VHD,,C:\,*.VHD
+,VirtualDisks.tkape,VHDX,,C:\,*.VHDX
+,VirtualDisks.tkape,VDI,,C:\,*.VDI
+,VirtualDisks.tkape,VMDK,,C:\,*.VMDK
+,VNCLogs.tkape,VNC Log,,C:\Users\*\AppData\Local\RealVNC\,vncserver.log
+,WBEM.tkape,Web-Based Enterprise Management (WBEM),,C:\Windows\System32\wbem\Repository,
+WebBrowsers.tkape,InternetExplorer.tkape,Internet Explorer,,,
+WebBrowsers.tkape,Chrome.tkape,Chrome,,,
+WebBrowsers.tkape,FireFox.tkape,FireFox,,,
+WebBrowsers.tkape,Edge.tkape,Edge,,,
+,WER.tkape,WER Files,,C:\ProgramData\Microsoft\Windows\WER,
+,WER.tkape,Crash Dumps,,C:\Users\*\AppData\Local\CrashDumps\,*.dmp
+,WER.tkape,Crash Dumps,,C:\Windows\,*.dmp
+,WindowsFirewall.tkape,Windows Firewall Logs,,C:\Windows\System32\LogFiles\Firewall\,pfirewall.*
+,WindowsIndexSearch.tkape,Windows Index Search,,C:\ProgramData\Microsoft\search\data\applications\Windows\,Windows.edb
+,WindowsNotifcationsDB.tkape,Windows 10 Notification DB,,C:\Users\*\AppData\Local\Microsoft\Windows\Notifications\,wpndatabase.db
+,WindowsNotifcationsDB.tkape,Windows 10 Notification DB,,C:\Users\*\AppData\Local\Microsoft\Windows\Notifications\,appdb.dat
+,XPRestorePoints.tkape,XP Restore Points - System Volume Information directory,Windows XP,C:\System Volume Information,
