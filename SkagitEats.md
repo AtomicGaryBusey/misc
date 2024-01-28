@@ -42,6 +42,7 @@ I only list places I've been to and can recommend or caution against.
 | Boomer's Drive-In | Burgers | Bellingham |  |
 | Zen Sushi & Bar | Japanese | Bellingham |  |
 | Good To Go Meat Pies | Meat Pies | Ferndale |  |
+| Bob's Burgers & Brew | Burgers | Burlington |  |
 |  |  |  |  |
 
 # Canada
