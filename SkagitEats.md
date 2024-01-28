@@ -14,7 +14,7 @@ I only list places I've been to and can recommend or caution against.
 | [The Curious Chef](https://curious-chef.business.site) | Breakfast, Burgers | Burlington |  |
 | [Dad's Diner-A-GoGo](https://my-site-105803-107532.square.site) | Breakfast, Burgers | Anacortes |  |
 | [Iron Mountain Bar & Grill](https://m.facebook.com/profile.php/?id=100063500473367) | Burgers | Sedro-Woolley |  |
-| Mr. T's | Breakfast | Mount Vernon |  |
+| [Mr. T's Cafe](https://mrtscafe.com) | Breakfast | Mount Vernon |  |
 | Skagit Valley Burger Express | Burgers | Sedro-Woolley |  |
 | Hal's Drive-In | Burgers | Sedro-Woolley |  |
 | Denny's | Breakfast, Burgers, American | Mount Vernon |  |
