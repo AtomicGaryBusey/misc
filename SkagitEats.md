@@ -9,7 +9,7 @@ I only list places I've been to and can recommend or caution against.
 | Name | Type | City | Description |
 | ---- | ---- | ---- | ---- |
 | [Gentleman Gene's](https://gentlemengenespub.com) | Burgers, American | Mount Vernon |  |
-| Joy's Bakery | Breakfast, Burgers, Pastries | Sedro-Woolley |  |
+| [Joy's Bakery and Cafe](https://m.facebook.com/profile.php/?id=100040884916795) | Breakfast, Burgers, Pastries | Sedro-Woolley |  |
 | Bonnie Jo's | Breakfast, Burgers | Sedro-Woolley |  |
 | The Curious Chef | Breakfast, Burgers | Burlington |  |
 | Dad's Diner-A-GoGo | Breakfast, Burgers | Anacortes |  |
