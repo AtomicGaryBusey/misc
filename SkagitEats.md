@@ -22,13 +22,13 @@ I only list places I've been to and can recommend or caution against.
 | Shari's | Breakfast, Burgers, American | Burlington |  |
 | [Burgermaster](https://burgermaster.com/menus/mt-vernon/) | Burgers | Mount Vernon |  |
 | [The Bull Pen Sports Bar & Grill](https://www.thebullpensportsbar.com) | Burgers, American | Sedro-Woolley |  |
-| Skagit River Brewery | Burgers, American | Mount Vernon |  |
-| Vagabond Station | Fried Chicken Burgers | Anacortes |  |
-| Birdsview Diner | Burgers | Birdsview (Concrete) |  |
-| Mestizo | Mexican | Sedro-Woolley |  |
-| Tacos Tecalitlan | Mexican | Burlington |  |
-| Mí México | Mexican | Burlington |  |
-| COA | Mexican | Mount Vernon |  |
+| [Skagit River Brewery](https://www.skagitbrew.com) | Burgers, American | Mount Vernon |  |
+| [Vagabond Station](https://vagabondtrailerfood.com) | Fried Chicken Burgers | Anacortes |  |
+| [Birdsview Diner](https://www.birdsviewdiner.com) | Burgers | Birdsview (Concrete) |  |
+| [Mestizo Mexican Restaurant](http://www.mestizomexican.com) | Mexican | Sedro-Woolley |  |
+| [Tacos Tecalitlan](https://tacostecalitlan.com) | Mexican | Burlington |  |
+| [Mí México](https://m.facebook.com/profile.php/?id=100054286729860) | Mexican | Burlington |  |
+| [COA Mexican Eatery & Tequileria](https://www.coaeatery.com/home) | Mexican | Mount Vernon |  |
 | Lorenzo's | Mexican | Sedro-Woolley |  |
 | Olive Garden | Italian | Burlington |  |
 | Il Granaio | Italian | Mount Vernon |  |
