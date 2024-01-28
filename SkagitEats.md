@@ -8,7 +8,7 @@ I only list places I've been to and can recommend or caution against.
 # United States of America
 | Name | Type | City | Description |
 | ---- | ---- | ---- | ---- |
-| [https://gentlemengenespub.com](Gentleman Gene's) | Burgers, American | Mount Vernon |  |
+| (Gentleman Gene's)[https://gentlemengenespub.com) | Burgers, American | Mount Vernon |  |
 | Joy's Bakery | Breakfast, Burgers, Pastries | Sedro-Woolley |  |
 | Bonnie Jo's | Breakfast, Burgers | Sedro-Woolley |  |
 | The Curious Chef | Breakfast, Burgers | Burlington |  |
