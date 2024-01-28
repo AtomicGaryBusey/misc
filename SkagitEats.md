@@ -37,7 +37,7 @@ I only list places I've been to and can recommend or caution against.
 | Korea House BBQ & Grill | Korean | Marysville |  |
 | Coconut Kenny's | Pizza | Burlington |  |
 | Coconut Kenny's | Pizza | Sedro-Woolley |  |
-| Annie's Pizza Station | Pizza |  |  |
+| Annie's Pizza Station | Pizza | Concrete |  |
 | Mondo Restaurant | Burgers, American | Rockport |  |
 | Boomer's Drive-In | Burgers | Bellingham |  |
 | Zen Sushi & Bar | Japanese | Bellingham |  |
