@@ -15,13 +15,13 @@ I only list places I've been to and can recommend or caution against.
 | [Dad's Diner-A-GoGo](https://my-site-105803-107532.square.site) | Breakfast, Burgers | Anacortes |  |
 | [Iron Mountain Bar & Grill](https://m.facebook.com/profile.php/?id=100063500473367) | Burgers | Sedro-Woolley |  |
 | [Mr. T's Cafe](https://mrtscafe.com) | Breakfast | Mount Vernon |  |
-| Skagit Valley Burger Express | Burgers | Sedro-Woolley |  |
-| Hal's Drive-In | Burgers | Sedro-Woolley |  |
+| [Skagit Valley Burger Express](http://www.skagitvalleyburgers.com) | Burgers | Sedro-Woolley |  |
+| [Hal's Drive-In](https://www.halsdrivein.com) | Burgers | Sedro-Woolley |  |
 | Denny's | Breakfast, Burgers, American | Mount Vernon |  |
 | Denny's | Breakfast, Burgers, American | Smokey Point (Arlington) |  |
 | Shari's | Breakfast, Burgers, American | Burlington |  |
-| Burgermaster | Burgers | Mount Vernon |  |
-| The Bull Pen | Burgers, American | Sedro-Woolley |  |
+| [Burgermaster](https://burgermaster.com/menus/mt-vernon/) | Burgers | Mount Vernon |  |
+| [The Bull Pen Sports Bar & Grill](https://www.thebullpensportsbar.com) | Burgers, American | Sedro-Woolley |  |
 | Skagit River Brewery | Burgers, American | Mount Vernon |  |
 | Vagabond Station | Fried Chicken Burgers | Anacortes |  |
 | Birdsview Diner | Burgers | Birdsview (Concrete) |  |
