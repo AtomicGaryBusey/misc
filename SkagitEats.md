@@ -1,4 +1,4 @@
-I get asked fairly often what there is to eat "up north", in western Washington state, which I always have to think of an answer to. But it often results in short lists and me forgetting hidden gems. so here at long last is a list of places to eat "up north".
+I get asked fairly often what there is to eat Up North, in western Washington state, which I always have to think of an answer to. But it often results in short lists and me forgetting hidden gems. so here at long last is a list of places to eat "up north".
 
 What is "up north?" As I'm defining it, it's anything north of the wetlands between Everett, WA and Marysville, WA. This includes Skagit, Whatcom, Island, and north Snohomish counties in the United States, and some stuff in southern British Columbia, Canada.
 
