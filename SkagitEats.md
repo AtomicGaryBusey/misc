@@ -11,8 +11,8 @@ I only list places I've been to and can recommend or caution against.
 | [Gentleman Gene's](https://gentlemengenespub.com) | Burgers, American | Mount Vernon |  |
 | [Joy's Bakery and Cafe](https://m.facebook.com/profile.php/?id=100040884916795) | Breakfast, Burgers, Pastries | Sedro-Woolley |  |
 | [Bonnie Jo's](https://m.facebook.com/profile.php/?id=100063574718997) | Breakfast, Burgers | Sedro-Woolley |  |
-| The Curious Chef | Breakfast, Burgers | Burlington |  |
-| Dad's Diner-A-GoGo | Breakfast, Burgers | Anacortes |  |
+| [The Curious Chef](https://curious-chef.business.site) | Breakfast, Burgers | Burlington |  |
+| [Dad's Diner-A-GoGo](https://my-site-105803-107532.square.site) | Breakfast, Burgers | Anacortes |  |
 | Iron Mountain Bar & Grill | Burgers | Sedro-Woolley |  |
 | Mr. T's | Breakfast | Mount Vernon |  |
 | Skagit Valley Burger Express | Burgers | Sedro-Woolley |  |
