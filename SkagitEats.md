@@ -27,6 +27,12 @@ I only list places I've been to and can recommend or caution against.
 | ~Shari's~ | ~Breakfast, Burgers, American~ | ⭐ | The Burlington location closed Jan 25, 2024. |
 | [Tacos Tecalitlan](https://tacostecalitlan.com) | Mexican, Taco Truck | ⭐⭐⭐⭐⭐ |  |
 | [The Curious Chef](https://curious-chef.business.site) | Breakfast, Burgers | ⭐⭐⭐⭐ |  |
+| [Train Wreck Bar & Grill](https://www.trainwreckbar.com) | Burgers | ⭐⭐⭐⭐⭐ | Adults-only, no area for minors to eat at so not family friendly. Great food, though! |
+
+### Clear Lake
+| Name | Type | Rating | Description |
+| ---- | ---- | ---- | ---- |
+| [Evelyn's Tavern](https://evelynstavern.com) | Bar food | ⭐⭐⭐⭐ |  |
 
 ### Concrete
 | Name | Type | Rating | Description |
