@@ -8,12 +8,16 @@ I only list places I've been to and can recommend or caution against.
 # United States of America
 
 ## Skagit County, WA
+
+### Anacortes
 | Name | Type | City | Description |
 | ---- | ---- | ---- | ---- |
-| Anacortes |  |  |  |
 | [Dad's Diner-A-GoGo](https://my-site-105803-107532.square.site) | Breakfast, Burgers | Anacortes |  |
 | [Vagabond Station](https://vagabondtrailerfood.com) | Fried Chicken Burgers | Anacortes |  |
-| Burlington |  |  |  |
+
+### Burlington
+| Name | Type | City | Description |
+| ---- | ---- | ---- | ---- |
 | [Bob's Burgers & Brew](https://bobsburgersandbrewburlington.com/) | Burgers | Burlington |  |
 | [Coconut Kenny's](https://www.coconutkennys.com/locations/) | Pizza | Burlington |  |
 | [Mí México](https://m.facebook.com/profile.php/?id=100054286729860) | Mexican | Burlington |  |
@@ -22,10 +26,16 @@ I only list places I've been to and can recommend or caution against.
 | Shari's | Breakfast, Burgers, American | Burlington |  |
 | [Tacos Tecalitlan](https://tacostecalitlan.com) | Mexican | Burlington |  |
 | [The Curious Chef](https://curious-chef.business.site) | Breakfast, Burgers | Burlington |  |
-| Concrete |  |  |  |
+
+### Concrete
+| Name | Type | City | Description |
+| ---- | ---- | ---- | ---- |
 | [Annie's Pizza Station](https://www.anniespizzastation.net/) | Pizza | Concrete |  |
 | [Birdsview Diner](https://www.birdsviewdiner.com) | Burgers | Birdsview (Concrete) |  |
-| Mount Vernon |  |  |  |
+
+### Mount Vernon
+| Name | Type | City | Description |
+| ---- | ---- | ---- | ---- |
 | [Burgermaster](https://burgermaster.com/menus/mt-vernon/) | Burgers | Mount Vernon |  |
 | [COA Mexican Eatery & Tequileria](https://www.coaeatery.com/home) | Mexican | Mount Vernon |  |
 | [Denny's](https://locations.dennys.com/WA/MOUNT-VERNON/247878) | Breakfast, Burgers, American | Mount Vernon |  |
@@ -37,9 +47,15 @@ I only list places I've been to and can recommend or caution against.
 | [Skagit River Brewery](https://www.skagitbrew.com) | Burgers, American | Mount Vernon |  |
 | [Skagit Valley Food Co-op Deli](https://www.skagitfoodcoop.com/deli) | Lunchtime Deli Fare | Mount Vernon |  |
 | [Teriyaki Time](https://www.facebook.com/bestteriyakiintown/) | Japanese | Mount Vernon |  |
-| Rockport |  |  |  |
+
+### Rockport
+| Name | Type | City | Description |
+| ---- | ---- | ---- | ---- |
 | Mondo Restaurant | Burgers, American | Rockport |  |
-| Sedro-Woolley |  |  |  |
+
+### Sedro-Woolley
+| Name | Type | City | Description |
+| ---- | ---- | ---- | ---- |
 | [Bonnie Jo's](https://m.facebook.com/profile.php/?id=100063574718997) | Breakfast, Burgers | Sedro-Woolley |  |
 | [Coconut Kenny's](https://www.coconutkennys.com/locations/) | Pizza | Sedro-Woolley |  |
 | [Hal's Drive-In](https://www.halsdrivein.com) | Burgers | Sedro-Woolley |  |
