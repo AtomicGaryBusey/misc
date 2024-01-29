@@ -23,9 +23,9 @@ I only list places I've been to and can recommend or caution against.
 | [Haggen](https://local.haggen.com/wa/burlington/757-haggen-dr.html) Deli | Lunchtime Deli Fare, Sushi | ⭐⭐⭐⭐ | Located inside the grocery store. |
 | [Mí México](https://m.facebook.com/profile.php/?id=100054286729860) | Mexican | ⭐⭐⭐⭐ |  |
 | [Olive Garden](https://www.olivegarden.com/locations/wa/burlington/burlington-washington/1691) | Italian | ⭐⭐⭐ |  |
-| [Sakura Japanese Steakhouse & Sushi Bar](https://www.sakuraburlington.com/) | ⭐⭐⭐⭐ | Burlington |  |
+| [Sakura Japanese Steakhouse & Sushi Bar](https://www.sakuraburlington.com/) | Japanese, Sushi | ⭐⭐⭐⭐ |  |
 | ~Shari's~ | ~Breakfast, Burgers, American~ | ⭐ | The Burlington location closed Jan 25, 2024. |
-| [Tacos Tecalitlan](https://tacostecalitlan.com) | ⭐⭐⭐⭐⭐ | Burlington |  |
+| [Tacos Tecalitlan](https://tacostecalitlan.com) | Mexican, Taco Truck | ⭐⭐⭐⭐⭐ |  |
 | [The Curious Chef](https://curious-chef.business.site) | Breakfast, Burgers | ⭐⭐⭐⭐ |  |
 
 ### Concrete
