@@ -29,21 +29,25 @@ I only list places I've been to and can recommend or caution against.
 | [Tacos Tecalitlan](https://tacostecalitlan.com) | Mexican | Burlington |  |
 | [Mí México](https://m.facebook.com/profile.php/?id=100054286729860) | Mexican | Burlington |  |
 | [COA Mexican Eatery & Tequileria](https://www.coaeatery.com/home) | Mexican | Mount Vernon |  |
-| Lorenzo's | Mexican | Sedro-Woolley |  |
+| [Lorenzo's](https://www.lorenzosmexicanrestaurant.com/) | Mexican | Sedro-Woolley |  |
 | Olive Garden | Italian | Burlington |  |
-| Il Granaio | Italian | Mount Vernon |  |
-| Sakura | Japanese | Burlington |  |
-| Fortune Mandarin | Chinese | Mount Vernon |  |
-| Korea House BBQ & Grill | Korean | Marysville |  |
-| Coconut Kenny's | Pizza | Burlington |  |
-| Coconut Kenny's | Pizza | Sedro-Woolley |  |
-| Annie's Pizza Station | Pizza | Concrete |  |
+| [Il Granaio Itaian Restaurant](https://www.granaio.com/) | Italian | Mount Vernon |  |
+| [Sakura Japanese Steakhouse & Sushi Bar](https://www.sakuraburlington.com/) | Japanese | Burlington |  |
+| [Fortune Mandarin Restaurant & Lounge](http://www.fortunemandarin.com/) | Chinese | Mount Vernon |  |
+| [Korea House BBQ & Grill](https://www.koreahousemarysville.com/) | Korean | Marysville |  |
+| [Coconut Kenny's](https://www.coconutkennys.com/locations/) | Pizza | Burlington |  |
+| [Coconut Kenny's](https://www.coconutkennys.com/locations/) | Pizza | Sedro-Woolley |  |
+| [Annie's Pizza Station](https://www.anniespizzastation.net/) | Pizza | Concrete |  |
 | Mondo Restaurant | Burgers, American | Rockport |  |
-| Boomer's Drive-In | Burgers | Bellingham |  |
-| Zen Sushi & Bar | Japanese | Bellingham |  |
-| Good To Go Meat Pies | Meat Pies | Ferndale |  |
-| Bob's Burgers & Brew | Burgers | Burlington |  |
-|  |  |  |  |
+| [Boomer's Drive-In](https://boomersdrivein.com/) | Burgers | Bellingham |  |
+| [Zen Sushi & Bar](https://zensushibellingham.com/) | Japanese | Bellingham |  |
+| [Holly's Meat Pies](https://hollysmeatpies.com/) | Meat Pies | Ferndale |  |
+| [Bob's Burgers & Brew](https://bobsburgersandbrewburlington.com/) | Burgers | Burlington |  |
+| [The Loft](https://www.theloftbellingham.com/) | Burgers, American | Bellingham |  |
+| [Keenan's at the Pier](https://www.keenansatthepier.com/) |  | Bellingham |  |
+| [Skagit Valley Food Co-op Deli](https://www.skagitfoodcoop.com/deli) | Lunchtime Deli Fare | Mount Vernon |  |
+| [Riverside Cafe](https://www.riversidecafemv.com/) | American | Mount Vernon |  |
+
 
 # Canada
 TBD
