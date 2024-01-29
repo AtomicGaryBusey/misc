@@ -20,6 +20,7 @@ I only list places I've been to and can recommend or caution against.
 | ---- | ---- | ---- | ---- |
 | [Bob's Burgers & Brew](https://bobsburgersandbrewburlington.com/) | Burgers | Burlington |  |
 | [Coconut Kenny's](https://www.coconutkennys.com/locations/) | Pizza | Burlington |  |
+| [Haggen Deli](https://local.haggen.com/wa/burlington/757-haggen-dr.html) | Lunchtime Deli Fare, Sushi | Mount Vernon |  |
 | [Mí México](https://m.facebook.com/profile.php/?id=100054286729860) | Mexican | Burlington |  |
 | [Olive Garden](https://www.olivegarden.com/locations/wa/burlington/burlington-washington/1691) | Italian | Burlington |  |
 | [Sakura Japanese Steakhouse & Sushi Bar](https://www.sakuraburlington.com/) | Japanese | Burlington |  |
@@ -41,6 +42,7 @@ I only list places I've been to and can recommend or caution against.
 | [Denny's](https://locations.dennys.com/WA/MOUNT-VERNON/247878) | Breakfast, Burgers, American | Mount Vernon |  |
 | [Fortune Mandarin Restaurant & Lounge](http://www.fortunemandarin.com/) | Chinese | Mount Vernon |  |
 | [Gentleman Gene's](https://gentlemengenespub.com) | Burgers, American | Mount Vernon |  |
+| [Haggen Deli](https://local.haggen.com/wa/mount-vernon/2601-e-division-st.html) | Lunchtime Deli Fare, Sushi | Mount Vernon |  |
 | [Il Granaio Itaian Restaurant](https://www.granaio.com/) | Italian | Mount Vernon |  |
 | [Mr. T's Cafe](https://mrtscafe.com) | Breakfast | Mount Vernon |  |
 | [Riverside Cafe](https://www.riversidecafemv.com/) | American | Mount Vernon |  |
