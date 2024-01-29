@@ -21,6 +21,7 @@ I only list places I've been to and can recommend or caution against.
 | [Bob's Burgers & Brew](https://bobsburgersandbrewburlington.com/) | Burgers | ⭐⭐⭐ |  |
 | [Coconut Kenny's](https://www.coconutkennys.com/locations/) | Pizza | ⭐⭐⭐⭐⭐ |  |
 | [Haggen](https://local.haggen.com/wa/burlington/757-haggen-dr.html) Deli | Lunchtime Deli Fare, Sushi | ⭐⭐⭐⭐ | Located inside the grocery store. |
+| [LaFeen's Donuts](https://www.burlington-chamber.com/list/member/lafeens-donuts-ice-cream-and-espresso-2276) | Donuts | ⭐⭐⭐ | Great donuts, especially their fritters. Friendly owner. Unfortunately not consistently open so it's hard to know reliably when to go buy. As a result, even if we wanted to buy more donuts here it's just not feasible. 3 stars simply because of their schedule chaos. |
 | [Mí México](https://m.facebook.com/profile.php/?id=100054286729860) | Mexican | ⭐⭐⭐⭐ |  |
 | [Olive Garden](https://www.olivegarden.com/locations/wa/burlington/burlington-washington/1691) | Italian | ⭐⭐⭐ |  |
 | [Sakura Japanese Steakhouse & Sushi Bar](https://www.sakuraburlington.com/) | Japanese, Sushi | ⭐⭐⭐⭐ |  |
