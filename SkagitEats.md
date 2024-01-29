@@ -21,9 +21,9 @@ I only list places I've been to and can recommend or caution against.
 | [Bob's Burgers & Brew](https://bobsburgersandbrewburlington.com/) | Burgers | Burlington |  |
 | [Coconut Kenny's](https://www.coconutkennys.com/locations/) | Pizza | Burlington |  |
 | [Mí México](https://m.facebook.com/profile.php/?id=100054286729860) | Mexican | Burlington |  |
-| Olive Garden | Italian | Burlington |  |
+| [Olive Garden](https://www.olivegarden.com/locations/wa/burlington/burlington-washington/1691) | Italian | Burlington |  |
 | [Sakura Japanese Steakhouse & Sushi Bar](https://www.sakuraburlington.com/) | Japanese | Burlington |  |
-| Shari's | Breakfast, Burgers, American | Burlington |  |
+| ~Shari's~ | ~Breakfast, Burgers, American~ | Burlington | The Burlington location closed Jan 25, 2024. |
 | [Tacos Tecalitlan](https://tacostecalitlan.com) | Mexican | Burlington |  |
 | [The Curious Chef](https://curious-chef.business.site) | Breakfast, Burgers | Burlington |  |
 
