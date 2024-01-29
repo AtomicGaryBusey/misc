@@ -20,7 +20,7 @@ I only list places I've been to and can recommend or caution against.
 | ---- | ---- | ---- | ---- |
 | [Bob's Burgers & Brew](https://bobsburgersandbrewburlington.com/) | Burgers | Burlington |  |
 | [Coconut Kenny's](https://www.coconutkennys.com/locations/) | Pizza | Burlington |  |
-| [Haggen Deli](https://local.haggen.com/wa/burlington/757-haggen-dr.html) | Lunchtime Deli Fare, Sushi | Mount Vernon |  |
+| [Haggen](https://local.haggen.com/wa/burlington/757-haggen-dr.html) Deli | Lunchtime Deli Fare, Sushi | Burlington | Located inside the grocery store. |
 | [Mí México](https://m.facebook.com/profile.php/?id=100054286729860) | Mexican | Burlington |  |
 | [Olive Garden](https://www.olivegarden.com/locations/wa/burlington/burlington-washington/1691) | Italian | Burlington |  |
 | [Sakura Japanese Steakhouse & Sushi Bar](https://www.sakuraburlington.com/) | Japanese | Burlington |  |
@@ -42,12 +42,12 @@ I only list places I've been to and can recommend or caution against.
 | [Denny's](https://locations.dennys.com/WA/MOUNT-VERNON/247878) | Breakfast, Burgers, American | Mount Vernon |  |
 | [Fortune Mandarin Restaurant & Lounge](http://www.fortunemandarin.com/) | Chinese | Mount Vernon |  |
 | [Gentleman Gene's](https://gentlemengenespub.com) | Burgers, American | Mount Vernon |  |
-| [Haggen Deli](https://local.haggen.com/wa/mount-vernon/2601-e-division-st.html) | Lunchtime Deli Fare, Sushi | Mount Vernon |  |
+| [Haggen](https://local.haggen.com/wa/mount-vernon/2601-e-division-st.html) Deli | Lunchtime Deli Fare, Sushi | Mount Vernon | Located inside the grocery store. |
 | [Il Granaio Itaian Restaurant](https://www.granaio.com/) | Italian | Mount Vernon |  |
 | [Mr. T's Cafe](https://mrtscafe.com) | Breakfast | Mount Vernon |  |
 | [Riverside Cafe](https://www.riversidecafemv.com/) | American | Mount Vernon |  |
 | [Skagit River Brewery](https://www.skagitbrew.com) | Burgers, American | Mount Vernon |  |
-| [Skagit Valley Food Co-op Deli](https://www.skagitfoodcoop.com/deli) | Lunchtime Deli Fare | Mount Vernon |  |
+| [Skagit Valley Food Co-op](https://www.skagitfoodcoop.com/deli) Deli | Lunchtime Deli Fare | Mount Vernon | Located inside the grocery store. |
 | [Teriyaki Time](https://www.facebook.com/bestteriyakiintown/) | Japanese | Mount Vernon |  |
 
 ### Rockport
@@ -65,6 +65,7 @@ I only list places I've been to and can recommend or caution against.
 | [Joy's Bakery and Cafe](https://m.facebook.com/profile.php/?id=100040884916795) | Breakfast, Burgers, Pastries | Sedro-Woolley |  |
 | [Lorenzo's](https://www.lorenzosmexicanrestaurant.com/) | Mexican | Sedro-Woolley |  |
 | [Mestizo Mexican Restaurant](http://www.mestizomexican.com) | Mexican | Sedro-Woolley |  |
+| [Pioneer Marketplace](https://www.facebook.com/p/Pioneer-Marketplace-100063249878701/) Deli | Lunchtime Deli Fare | Sedro-Woolley | Located inside the grocery store. |
 | [Skagit Valley Burger Express](http://www.skagitvalleyburgers.com) | Burgers | Sedro-Woolley |  |
 | [The Bull Pen Sports Bar & Grill](https://www.thebullpensportsbar.com) | Burgers, American | Sedro-Woolley |  |
 
