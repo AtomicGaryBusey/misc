@@ -6,48 +6,71 @@ I only list places I've been to and can recommend or caution against.
 
 
 # United States of America
+
+## Skagit County, WA
 | Name | Type | City | Description |
 | ---- | ---- | ---- | ---- |
-| [Gentleman Gene's](https://gentlemengenespub.com) | Burgers, American | Mount Vernon |  |
-| [Joy's Bakery and Cafe](https://m.facebook.com/profile.php/?id=100040884916795) | Breakfast, Burgers, Pastries | Sedro-Woolley |  |
-| [Bonnie Jo's](https://m.facebook.com/profile.php/?id=100063574718997) | Breakfast, Burgers | Sedro-Woolley |  |
-| [The Curious Chef](https://curious-chef.business.site) | Breakfast, Burgers | Burlington |  |
+| Anacortes |  |  |  |
 | [Dad's Diner-A-GoGo](https://my-site-105803-107532.square.site) | Breakfast, Burgers | Anacortes |  |
-| [Iron Mountain Bar & Grill](https://m.facebook.com/profile.php/?id=100063500473367) | Burgers | Sedro-Woolley |  |
-| [Mr. T's Cafe](https://mrtscafe.com) | Breakfast | Mount Vernon |  |
-| [Skagit Valley Burger Express](http://www.skagitvalleyburgers.com) | Burgers | Sedro-Woolley |  |
-| [Hal's Drive-In](https://www.halsdrivein.com) | Burgers | Sedro-Woolley |  |
-| Denny's | Breakfast, Burgers, American | Mount Vernon |  |
-| Denny's | Breakfast, Burgers, American | Smokey Point (Arlington) |  |
-| Shari's | Breakfast, Burgers, American | Burlington |  |
-| [Burgermaster](https://burgermaster.com/menus/mt-vernon/) | Burgers | Mount Vernon |  |
-| [The Bull Pen Sports Bar & Grill](https://www.thebullpensportsbar.com) | Burgers, American | Sedro-Woolley |  |
-| [Skagit River Brewery](https://www.skagitbrew.com) | Burgers, American | Mount Vernon |  |
 | [Vagabond Station](https://vagabondtrailerfood.com) | Fried Chicken Burgers | Anacortes |  |
-| [Birdsview Diner](https://www.birdsviewdiner.com) | Burgers | Birdsview (Concrete) |  |
-| [Mestizo Mexican Restaurant](http://www.mestizomexican.com) | Mexican | Sedro-Woolley |  |
-| [Tacos Tecalitlan](https://tacostecalitlan.com) | Mexican | Burlington |  |
-| [Mí México](https://m.facebook.com/profile.php/?id=100054286729860) | Mexican | Burlington |  |
-| [COA Mexican Eatery & Tequileria](https://www.coaeatery.com/home) | Mexican | Mount Vernon |  |
-| [Lorenzo's](https://www.lorenzosmexicanrestaurant.com/) | Mexican | Sedro-Woolley |  |
-| Olive Garden | Italian | Burlington |  |
-| [Il Granaio Itaian Restaurant](https://www.granaio.com/) | Italian | Mount Vernon |  |
-| [Sakura Japanese Steakhouse & Sushi Bar](https://www.sakuraburlington.com/) | Japanese | Burlington |  |
-| [Fortune Mandarin Restaurant & Lounge](http://www.fortunemandarin.com/) | Chinese | Mount Vernon |  |
-| [Korea House BBQ & Grill](https://www.koreahousemarysville.com/) | Korean | Marysville |  |
-| [Coconut Kenny's](https://www.coconutkennys.com/locations/) | Pizza | Burlington |  |
-| [Coconut Kenny's](https://www.coconutkennys.com/locations/) | Pizza | Sedro-Woolley |  |
-| [Annie's Pizza Station](https://www.anniespizzastation.net/) | Pizza | Concrete |  |
-| Mondo Restaurant | Burgers, American | Rockport |  |
-| [Boomer's Drive-In](https://boomersdrivein.com/) | Burgers | Bellingham |  |
-| [Zen Sushi & Bar](https://zensushibellingham.com/) | Japanese | Bellingham |  |
-| [Holly's Meat Pies](https://hollysmeatpies.com/) | Meat Pies | Ferndale |  |
+| Burlington |  |  |  |
 | [Bob's Burgers & Brew](https://bobsburgersandbrewburlington.com/) | Burgers | Burlington |  |
-| [The Loft](https://www.theloftbellingham.com/) | Burgers, American | Bellingham |  |
-| [Keenan's at the Pier](https://www.keenansatthepier.com/) |  | Bellingham |  |
-| [Skagit Valley Food Co-op Deli](https://www.skagitfoodcoop.com/deli) | Lunchtime Deli Fare | Mount Vernon |  |
+| [Coconut Kenny's](https://www.coconutkennys.com/locations/) | Pizza | Burlington |  |
+| [Mí México](https://m.facebook.com/profile.php/?id=100054286729860) | Mexican | Burlington |  |
+| Olive Garden | Italian | Burlington |  |
+| [Sakura Japanese Steakhouse & Sushi Bar](https://www.sakuraburlington.com/) | Japanese | Burlington |  |
+| Shari's | Breakfast, Burgers, American | Burlington |  |
+| [Tacos Tecalitlan](https://tacostecalitlan.com) | Mexican | Burlington |  |
+| [The Curious Chef](https://curious-chef.business.site) | Breakfast, Burgers | Burlington |  |
+| Concrete |  |  |  |
+| [Annie's Pizza Station](https://www.anniespizzastation.net/) | Pizza | Concrete |  |
+| [Birdsview Diner](https://www.birdsviewdiner.com) | Burgers | Birdsview (Concrete) |  |
+| Mount Vernon |  |  |  |
+| [Burgermaster](https://burgermaster.com/menus/mt-vernon/) | Burgers | Mount Vernon |  |
+| [COA Mexican Eatery & Tequileria](https://www.coaeatery.com/home) | Mexican | Mount Vernon |  |
+| [Denny's](https://locations.dennys.com/WA/MOUNT-VERNON/247878) | Breakfast, Burgers, American | Mount Vernon |  |
+| [Fortune Mandarin Restaurant & Lounge](http://www.fortunemandarin.com/) | Chinese | Mount Vernon |  |
+| [Gentleman Gene's](https://gentlemengenespub.com) | Burgers, American | Mount Vernon |  |
+| [Il Granaio Itaian Restaurant](https://www.granaio.com/) | Italian | Mount Vernon |  |
+| [Mr. T's Cafe](https://mrtscafe.com) | Breakfast | Mount Vernon |  |
 | [Riverside Cafe](https://www.riversidecafemv.com/) | American | Mount Vernon |  |
+| [Skagit River Brewery](https://www.skagitbrew.com) | Burgers, American | Mount Vernon |  |
+| [Skagit Valley Food Co-op Deli](https://www.skagitfoodcoop.com/deli) | Lunchtime Deli Fare | Mount Vernon |  |
+| [Teriyaki Time](https://www.facebook.com/bestteriyakiintown/) | Japanese | Mount Vernon |  |
+| Rockport |  |  |  |
+| Mondo Restaurant | Burgers, American | Rockport |  |
+| Sedro-Woolley |  |  |  |
+| [Bonnie Jo's](https://m.facebook.com/profile.php/?id=100063574718997) | Breakfast, Burgers | Sedro-Woolley |  |
+| [Coconut Kenny's](https://www.coconutkennys.com/locations/) | Pizza | Sedro-Woolley |  |
+| [Hal's Drive-In](https://www.halsdrivein.com) | Burgers | Sedro-Woolley |  |
+| [Iron Mountain Bar & Grill](https://m.facebook.com/profile.php/?id=100063500473367) | Burgers | Sedro-Woolley |  |
+| [Joy's Bakery and Cafe](https://m.facebook.com/profile.php/?id=100040884916795) | Breakfast, Burgers, Pastries | Sedro-Woolley |  |
+| [Lorenzo's](https://www.lorenzosmexicanrestaurant.com/) | Mexican | Sedro-Woolley |  |
+| [Mestizo Mexican Restaurant](http://www.mestizomexican.com) | Mexican | Sedro-Woolley |  |
+| [Skagit Valley Burger Express](http://www.skagitvalleyburgers.com) | Burgers | Sedro-Woolley |  |
+| [The Bull Pen Sports Bar & Grill](https://www.thebullpensportsbar.com) | Burgers, American | Sedro-Woolley |  |
 
+## Whatcom County, WA
+| Name | Type | City | Description |
+| ---- | ---- | ---- | ---- |
+| [Boomer's Drive-In](https://boomersdrivein.com/) | Burgers | Bellingham |  |
+| [Holly's Meat Pies](https://hollysmeatpies.com/) | Meat Pies | Bellingham |  |
+| [Keenan's at the Pier](https://www.keenansatthepier.com/) |  | Bellingham |  |
+| [The Loft](https://www.theloftbellingham.com/) | Burgers, American | Bellingham |  |
+| [Zen Sushi & Bar](https://zensushibellingham.com/) | Japanese | Bellingham |  |
+
+## Snohomish County, WA
+| Name | Type | City | Description |
+| ---- | ---- | ---- | ---- |
+| [Denny's](https://locations.dennys.com/WA/ARLINGTON/246351) | Breakfast, Burgers, American | Smokey Point (Arlington) |  |
+| [Korea House BBQ & Grill](https://www.koreahousemarysville.com/) | Korean | Marysville |  |
+
+## Island County, WA
+| Name | Type | City | Description |
+| ---- | ---- | ---- | ---- |
 
 # Canada
-TBD
+## British Columbia
+| Name | Type | City | Description |
+| ---- | ---- | ---- | ---- |
+| [Brogan's Diner](https://brogans.ca/) | Breakfast, Burgers, Americsn | Langley, BC |  |
