@@ -2,7 +2,7 @@ I get asked fairly often what there is to eat Up North, in western Washington st
 
 What is "Up North"? As I'm defining it, it's anything north of the wetlands between Everett, WA and Marysville, WA. This includes Skagit, Whatcom, Island, and north Snohomish counties in the United States, and heck, probably some stuff in southern British Columbia, Canada, too. Basically just this whole loosely-defined region Up North.
 
-I only list places I've been to and can recommend or caution against.
+I only list places I've been to and can recommend or caution against. This list mostly only has non-national chains, preferring instead local/regional chains and individual reataurants. There are a few megacorp fast food places listed but it's for a reason which are described in the last column.
 
 
 # United States of America
