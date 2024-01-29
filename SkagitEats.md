@@ -60,10 +60,12 @@ I only list places I've been to and can recommend or caution against.
 | ---- | ---- | ---- | ---- |
 | [Bonnie Jo's](https://m.facebook.com/profile.php/?id=100063574718997) | Breakfast, Burgers | Sedro-Woolley |  |
 | [Coconut Kenny's](https://www.coconutkennys.com/locations/) | Pizza | Sedro-Woolley |  |
+| [Food Pavilion](https://www.foodpavilion.com/StoreLocator/Store/?L=22&S=) Deli | Lunchtime Deli Fare | Sedro-Woolley | Located inside the grocery store. |
 | [Hal's Drive-In](https://www.halsdrivein.com) | Burgers | Sedro-Woolley |  |
 | [Iron Mountain Bar & Grill](https://m.facebook.com/profile.php/?id=100063500473367) | Burgers | Sedro-Woolley |  |
 | [Joy's Bakery and Cafe](https://m.facebook.com/profile.php/?id=100040884916795) | Breakfast, Burgers, Pastries | Sedro-Woolley |  |
 | [Lorenzo's](https://www.lorenzosmexicanrestaurant.com/) | Mexican | Sedro-Woolley |  |
+| [Magnolia Comfort Food](https://www.facebook.com/greatcomfortfood/) | Burgers, American | Sedro-Woolley | Formerly "Magnolia Grill". We weren't impressed when we went. A lot of people like it but it's just not for us. Food was OK, but the decor and presentation of the food just didn't leave us feeling comfortable. |
 | [Mestizo Mexican Restaurant](http://www.mestizomexican.com) | Mexican | Sedro-Woolley |  |
 | [Pioneer Marketplace](https://www.facebook.com/p/Pioneer-Marketplace-100063249878701/) Deli | Lunchtime Deli Fare | Sedro-Woolley | Located inside the grocery store. |
 | [Skagit Valley Burger Express](http://www.skagitvalleyburgers.com) | Burgers | Sedro-Woolley |  |
